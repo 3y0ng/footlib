@@ -1,0 +1,8 @@
+{
+  "name": "footlib",
+  "version": "0.1.0",
+  "description": "Local searchable footage library: index a drive or folder of videos, auto-tag clips, search by what's on screen or what's said, and get file + timecode back.",
+  "author": { "name": "E-Yong Lee" },
+  "repository": "https://github.com/3y0ng/footlib",
+  "keywords": ["video", "footage", "search", "tagging", "editing"]
+}

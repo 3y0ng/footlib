@@ -1,0 +1,11 @@
+{
+  "name": "footlib",
+  "owner": { "name": "E-Yong Lee" },
+  "plugins": [
+    {
+      "name": "footlib",
+      "source": "./",
+      "description": "Index, tag and search a drive or folder of video clips from Claude Code."
+    }
+  ]
+}
